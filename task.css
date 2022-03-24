@@ -1,0 +1,57 @@
+
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #8d448b;
+    border-color: #8d448b;
+   
+}
+.btn-outline-success {
+    color: #8d448b;
+    border-color: #8d448b;
+}
+#navbarSupportedContent
+{
+    margin-left: 20%;
+}
+.one 
+{
+    margin-top: 75px ;
+}
+body
+{
+    background-color: ghostwhite;
+}
+#img1
+{
+    object-fit: cover;
+    object-position: center center  ;
+    mix-blend-mode: darken ;
+}
+.input-group 
+{
+    width: 40%;
+    
+}
+.btn-outline-secondary
+{
+    color: #fff;
+    background-color: #8d448b;
+    border-color: #8d448b;
+    
+}
+.container-flex{
+    display:flex;
+    justify-content: space-between;
+}
+#tit1
+{
+    color: #8d448b;
+}
+#tit2
+{
+    color: black;
+}
+.sect2
+{
+    margin-top: 5%;
+}
